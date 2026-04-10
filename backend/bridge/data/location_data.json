@@ -1,0 +1,572 @@
+{
+  "Andhra Pradesh": {
+    "Amaravati": {
+      "wind_speed": 44,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 45.0,
+      "temp_min": 13.0
+    },
+    "Visakhapatnam": {
+      "wind_speed": 50,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 40.5,
+      "temp_min": 12.5
+    },
+    "Vijayawada": {
+      "wind_speed": 44,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 46.0,
+      "temp_min": 14.0
+    },
+    "Tirupati": {
+      "wind_speed": 44,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 42.5,
+      "temp_min": 13.5
+    }
+  },
+  "Assam": {
+    "Guwahati": {
+      "wind_speed": 47,
+      "seismic_zone": "V",
+      "seismic_factor": 0.36,
+      "temp_max": 36.0,
+      "temp_min": 6.0
+    },
+    "Silchar": {
+      "wind_speed": 47,
+      "seismic_zone": "V",
+      "seismic_factor": 0.36,
+      "temp_max": 35.0,
+      "temp_min": 8.0
+    },
+    "Dibrugarh": {
+      "wind_speed": 47,
+      "seismic_zone": "V",
+      "seismic_factor": 0.36,
+      "temp_max": 35.5,
+      "temp_min": 5.0
+    }
+  },
+  "Bihar": {
+    "Patna": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 44.0,
+      "temp_min": 4.0
+    },
+    "Gaya": {
+      "wind_speed": 47,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 45.0,
+      "temp_min": 5.0
+    },
+    "Muzaffarpur": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 43.0,
+      "temp_min": 4.5
+    },
+    "Bhagalpur": {
+      "wind_speed": 47,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 43.5,
+      "temp_min": 6.0
+    }
+  },
+  "Delhi": {
+    "New Delhi": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 48.0,
+      "temp_min": 1.0
+    }
+  },
+  "Gujarat": {
+    "Ahmedabad": {
+      "wind_speed": 39,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 47.5,
+      "temp_min": 5.0
+    },
+    "Surat": {
+      "wind_speed": 44,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 43.0,
+      "temp_min": 8.5
+    },
+    "Rajkot": {
+      "wind_speed": 39,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 46.0,
+      "temp_min": 5.5
+    },
+    "Bhuj": {
+      "wind_speed": 39,
+      "seismic_zone": "V",
+      "seismic_factor": 0.36,
+      "temp_max": 46.5,
+      "temp_min": 3.0
+    },
+    "Vadodara": {
+      "wind_speed": 39,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 45.0,
+      "temp_min": 6.5
+    }
+  },
+  "Himachal Pradesh": {
+    "Shimla": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 31.0,
+      "temp_min": -7.5
+    },
+    "Manali": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 25.0,
+      "temp_min": -15.0
+    },
+    "Dharamshala": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 33.0,
+      "temp_min": -2.0
+    }
+  },
+  "Jharkhand": {
+    "Ranchi": {
+      "wind_speed": 47,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 42.0,
+      "temp_min": 4.5
+    },
+    "Jamshedpur": {
+      "wind_speed": 47,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 44.0,
+      "temp_min": 7.0
+    },
+    "Dhanbad": {
+      "wind_speed": 47,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 43.5,
+      "temp_min": 5.5
+    }
+  },
+  "Karnataka": {
+    "Bengaluru": {
+      "wind_speed": 33,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 38.5,
+      "temp_min": 12.0
+    },
+    "Mysuru": {
+      "wind_speed": 33,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 38.0,
+      "temp_min": 10.5
+    },
+    "Mangaluru": {
+      "wind_speed": 39,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 38.0,
+      "temp_min": 16.0
+    },
+    "Hubballi": {
+      "wind_speed": 33,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 40.5,
+      "temp_min": 10.0
+    },
+    "Belagavi": {
+      "wind_speed": 33,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 39.5,
+      "temp_min": 9.0
+    }
+  },
+  "Kerala": {
+    "Thiruvananthapuram": {
+      "wind_speed": 39,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 37.5,
+      "temp_min": 16.5
+    },
+    "Kochi": {
+      "wind_speed": 39,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 36.0,
+      "temp_min": 17.0
+    },
+    "Kozhikode": {
+      "wind_speed": 39,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 38.0,
+      "temp_min": 15.5
+    },
+    "Thrissur": {
+      "wind_speed": 39,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 37.5,
+      "temp_min": 16.0
+    }
+  },
+  "Madhya Pradesh": {
+    "Bhopal": {
+      "wind_speed": 44,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 44.5,
+      "temp_min": 4.0
+    },
+    "Indore": {
+      "wind_speed": 44,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 43.0,
+      "temp_min": 4.5
+    },
+    "Jabalpur": {
+      "wind_speed": 44,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 45.0,
+      "temp_min": 3.5
+    },
+    "Gwalior": {
+      "wind_speed": 47,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 47.0,
+      "temp_min": 2.0
+    },
+    "Rewa": {
+      "wind_speed": 44,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 44.0,
+      "temp_min": 3.0
+    }
+  },
+  "Maharashtra": {
+    "Mumbai": {
+      "wind_speed": 44,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 40.5,
+      "temp_min": 11.5
+    },
+    "Pune": {
+      "wind_speed": 39,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 41.5,
+      "temp_min": 7.5
+    },
+    "Nagpur": {
+      "wind_speed": 44,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 47.5,
+      "temp_min": 5.5
+    },
+    "Nashik": {
+      "wind_speed": 39,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 43.0,
+      "temp_min": 5.0
+    },
+    "Aurangabad": {
+      "wind_speed": 39,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 44.0,
+      "temp_min": 6.5
+    }
+  },
+  "Odisha": {
+    "Bhubaneswar": {
+      "wind_speed": 50,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 45.0,
+      "temp_min": 10.5
+    },
+    "Cuttack": {
+      "wind_speed": 50,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 44.5,
+      "temp_min": 11.0
+    },
+    "Sambalpur": {
+      "wind_speed": 47,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 46.0,
+      "temp_min": 8.5
+    }
+  },
+  "Punjab": {
+    "Ludhiana": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 46.0,
+      "temp_min": -0.5
+    },
+    "Amritsar": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 46.5,
+      "temp_min": -0.5
+    },
+    "Chandigarh": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 44.0,
+      "temp_min": 0.5
+    },
+    "Patiala": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 45.0,
+      "temp_min": 0.0
+    }
+  },
+  "Rajasthan": {
+    "Jaipur": {
+      "wind_speed": 47,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 48.0,
+      "temp_min": 0.5
+    },
+    "Jodhpur": {
+      "wind_speed": 47,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 49.0,
+      "temp_min": 1.5
+    },
+    "Jaisalmer": {
+      "wind_speed": 47,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 50.0,
+      "temp_min": 1.0
+    },
+    "Udaipur": {
+      "wind_speed": 44,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 44.5,
+      "temp_min": 3.0
+    },
+    "Bikaner": {
+      "wind_speed": 47,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 49.5,
+      "temp_min": 0.5
+    }
+  },
+  "Tamil Nadu": {
+    "Chennai": {
+      "wind_speed": 50,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 42.5,
+      "temp_min": 18.0
+    },
+    "Coimbatore": {
+      "wind_speed": 39,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 39.0,
+      "temp_min": 13.0
+    },
+    "Madurai": {
+      "wind_speed": 39,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 41.0,
+      "temp_min": 14.5
+    },
+    "Tiruchirappalli": {
+      "wind_speed": 39,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 42.5,
+      "temp_min": 16.0
+    },
+    "Salem": {
+      "wind_speed": 33,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 40.0,
+      "temp_min": 14.0
+    }
+  },
+  "Telangana": {
+    "Hyderabad": {
+      "wind_speed": 44,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 45.0,
+      "temp_min": 10.0
+    },
+    "Warangal": {
+      "wind_speed": 44,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 45.5,
+      "temp_min": 9.5
+    },
+    "Karimnagar": {
+      "wind_speed": 44,
+      "seismic_zone": "II",
+      "seismic_factor": 0.10,
+      "temp_max": 45.0,
+      "temp_min": 9.0
+    }
+  },
+  "Uttar Pradesh": {
+    "Lucknow": {
+      "wind_speed": 47,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 46.0,
+      "temp_min": 1.5
+    },
+    "Agra": {
+      "wind_speed": 47,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 47.0,
+      "temp_min": 1.0
+    },
+    "Varanasi": {
+      "wind_speed": 47,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 46.0,
+      "temp_min": 2.0
+    },
+    "Kanpur": {
+      "wind_speed": 47,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 46.5,
+      "temp_min": 1.5
+    },
+    "Meerut": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 46.5,
+      "temp_min": 0.5
+    },
+    "Allahabad": {
+      "wind_speed": 47,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 47.5,
+      "temp_min": 2.5
+    }
+  },
+  "Uttarakhand": {
+    "Dehradun": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 41.0,
+      "temp_min": 0.5
+    },
+    "Haridwar": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 43.0,
+      "temp_min": 1.0
+    },
+    "Roorkee": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 43.5,
+      "temp_min": 0.5
+    },
+    "Nainital": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 28.0,
+      "temp_min": -3.0
+    }
+  },
+  "West Bengal": {
+    "Kolkata": {
+      "wind_speed": 50,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 43.0,
+      "temp_min": 8.0
+    },
+    "Siliguri": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 38.0,
+      "temp_min": 3.5
+    },
+    "Asansol": {
+      "wind_speed": 47,
+      "seismic_zone": "III",
+      "seismic_factor": 0.16,
+      "temp_max": 44.0,
+      "temp_min": 7.0
+    },
+    "Darjeeling": {
+      "wind_speed": 47,
+      "seismic_zone": "IV",
+      "seismic_factor": 0.24,
+      "temp_max": 25.0,
+      "temp_min": -2.0
+    }
+  }
+}
